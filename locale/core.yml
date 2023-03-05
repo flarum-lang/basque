@@ -15,12 +15,10 @@ core:
       custom_styles_heading: 'Estilu pertsonalizatua'
       custom_styles_text: 'Sartu zure CSS/LESS pertsonalizatua, estilo hauek Falrumekoa estiluen gainetik idatziko du.'
       dark_mode_label: 'Gau modua'
-      description: 'Customize your forum''s colors, logos, and other variables.'
       edit_css_button: 'Editatu CSS pertsonalizatua'
       edit_footer_button: '=> core.ref.custom_footer_title'
       edit_header_button: '=> core.ref.custom_header_title'
       enter_hex_message: 'Mesedez, idatzi kolore hexadezimal kolorea.'
-      favicon_heading: Favicon
       favicon_text: 'Igo foruaren lasterbideko irudia.'
       logo_heading: Logo
       logo_text: 'Igo foroaren izenburuaren ordez agertuko den irudia.'
@@ -37,7 +35,6 @@ core:
       home_page_heading: 'Hasierako Orria'
       home_page_text: 'Aukeratu erabiltzailea ikusiko duen orria sartzen denean.'
       show_language_selector_label: 'Erakutsi hizkuntza aukeratzeko menua'
-      slug_driver_heading: 'Slug Driver: {model}'
       slug_driver_text: 'Aukeratu dirver bat Slugerako.'
       title: Basikoak
       welcome_banner_heading: 'Ongi etorri bannerra'
@@ -76,7 +73,6 @@ core:
       driver_heading: 'Aukeratu protokoloa'
       driver_label: Protokoloa
       from_label: Bidaltzailea
-      mail_encryption_label: Encryption
       mail_host_label: Host
       mail_mailgun_domain_label: Domeinua
       mail_mailgun_region_label: Erregioa
@@ -142,7 +138,6 @@ core:
       delete_discussions_label: 'Borratu eztabaida'
       delete_posts_forever_label: 'Borratu posta betiraki'
       delete_posts_label: 'Borratu posta'
-      description: 'Configure who can see and do what.'
       edit_posts_label: 'Editatu posta'
       edit_users_label: 'Editatu erabiltzailea'
       global_heading: Globala
@@ -155,13 +150,11 @@ core:
       reply_to_discussions_label: 'Erantzun eztabaidak'
       sign_up_label: 'Sortu kontua'
       start_discussions_label: 'Hasi eztabaida'
-      title: Permissions
       view_hidden_groups_label: 'Ikusi ezkutatutako taldeak'
       view_last_seen_at_label: 'Ikusi beste erabiltzaileen azken konexioa'
       view_post_ips_label: 'Ikusi postaren IP helbidea'
     permissions_controls:
       allow_indefinitely_button: Indefinitua
-      allow_some_minutes_button: '{count} miniturako|{count} minutuetarako'
       allow_ten_minutes_button: 'Hamar minuturako'
       allow_until_reply_button: 'Hurrengo erantzuna harte'
       everyone_button: Denak
@@ -180,7 +173,7 @@ core:
       body: "Aupa {username}!\n\nNorbaitek (espero dugu zuk!) {forum}an sortu du kontua.\n\nZuk izan bazara, egin klik esteka honetan zure kontua aktibatzeko:\n{url}\n\nEz baduzu kontua sortu, ez egin kasu email honi.\n"
       subject: 'Aktibatu zure kontia'
     confirm_email:
-      body: "Aupa {username}!\n\nNorbaitek (espero dugu zuk!)  {forum}ko kontuko helbide elktronikoa aldatu du helbide honetara.\n\nZuk izan bazara, skatu esteka aldaketa konfirmatzeko:\n{url}\n\nZuk izan ez bazara ez egin kasu hemail honi.\n"
+      body: "Aupa {username}!\n\nNorbaitek (espero dugu zuk!) {forum}ko kontuko helbide elktronikoa aldatu du helbide honetara.\n\nZuk izan bazara, skatu esteka aldaketa konfirmatzeko:\n{url}\n\nZuk izan ez bazara ez egin kasu hemail honi.\n"
       subject: 'Konfirmatu helbide elektroniko berria'
     reset_password:
       body: "Aupa {username}!\n\nNorbaitek (espero dugu zuk!) {forum}ko pasahitzaren gogorapena eskatu du.\n\nZuk izan bazara, sakatu esteka hau pasahitza gogoratzeko:\n{url}\n\nEz baduzu zure pashitza aldatu nahi, ez egin kasu email honi eta ez dira aldaketak egingo.\n"
@@ -301,7 +294,6 @@ core:
       now_link: Berriena
       original_post_link: 'Post originala'
       unread_text: '{count} irakurri gabe'
-      viewing_text: '{index} posta {count} postatik|{index} posta {count} postetatik'
     post_stream:
       discussion_renamed_old_tooltip: 'Izenburu zaharra: "{old}"'
       discussion_renamed_text: '{username} aldatu du {new} izenburura.'
@@ -360,7 +352,6 @@ core:
       sent_message: Bidalita
   group:
     admin: Admin
-    admins: Admins
     guest: Bisitaria
     guests: Bisitariak
     member: Kidea
@@ -396,8 +387,6 @@ core:
       glue_text: ', '
       three_text: '{first}, {second} eta {third}'
       two_text: '{first} eta {second}'
-    username:
-      deleted_text: '[deleted]'
   ref:
     all_discussions: 'Eztabaida guztiak'
     change_email: 'Aldatu Emaila'
@@ -408,7 +397,6 @@ core:
     custom_footer_text: 'Gehitu HTML kodea orrioinan agertzeko.'
     custom_footer_title: 'Editatu pertsonalizatutako orrioina'
     custom_header_text: 'Gehitu orriaren bururako kodea, Flarum buruaren gainean.'
-    custom_header_title: 'Edit Custom Header'
     delete: Borratu
     delete_forever: 'Borratu betirako'
     discussions: Eztabaidak
@@ -434,7 +422,6 @@ core:
     save_changes: 'Gorde aldaketak'
     settings: Ezarpenak
     sign_up: 'Sortu kontua'
-    some_others: 'Beste {count}|Beste {count}k'
     start_a_discussion: 'Hasi eztabaida'
     username: 'Erabiltzaile izena'
     users: Erabiltzaileak
@@ -454,7 +441,7 @@ core:
       csrf_token_mismatch_return_link: 'Joan atzera, saiatu berriro'
       invalid_confirmation_token: 'Konfirmazio hau jada erabilia izan da.'
       not_authenticated: 'Ez daukazu orri hau ikusteko baimenik. Saia zaitez saioa hasi ondoren.'
-      not_found: 'Eskatutako orria ez  da aurkitau.'
+      not_found: 'Eskatutako orria ez da aurkitau.'
       not_found_return_link: 'Bueltatu {forum}-ra'
       permission_denied: 'Ez daukazu orri honetara sartzeko baimenik.'
       unknown: 'Errore bat suretatu da orri honetara sartzean. Saia zaitez berriro.'

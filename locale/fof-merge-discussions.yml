@@ -22,7 +22,5 @@ fof-merge-discussions:
       type_from_label: 'Batu eztabaida beste bati'
       type_target_help_text: 'Aukeratu beste eztabiada ba <b>{title}</b>-ri batzeko.'
       type_target_label: 'Batu batean'
-    post:
-      merged: 'Batua <b>{count}</b> batua {titles}-ra.|Batua <b>{count}</b> postak {titles}-tik.'
   ref:
     merge: Batu

@@ -19,7 +19,7 @@ fof-terms:
       see-user-policies-state: 'Ikusi pokitiken egoera'
     policies:
       export-url: 'Exportatu URLa'
-      export-url-help: "\"Politiken datu exportazioa\" egiteko baimena duen edozein erabiltzaileek nork onartu eta noiz datuak gordetzeko aukera izango du. Ikusi xehetasun gehiago  <a>extensioaren wikian</a>.\n"
+      export-url-help: "\"Politiken datu exportazioa\" egiteko baimena duen edozein erabiltzaileek nork onartu eta noiz datuak gordetzeko aukera izango du. Ikusi xehetasun gehiago <a>extensioaren wikian</a>.\n"
       name: Izena
       name-help: 'Izen hau checkboxaren ondoan agertuko da.'
       terms-updated-at: Eguneratua
