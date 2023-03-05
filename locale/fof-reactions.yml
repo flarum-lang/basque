@@ -29,14 +29,13 @@ fof-reactions:
           likes:
             Helptext: 'Idatzi likera automatikoki konbertitu nahi duzun erreakzioaren identifikatzailea'
             Label: 'Konbertitu erreakzioak liketan'
-            legend: Likes
           warning: 'Erreakzio berdina <strong>ezin da</strong> like <strong>eta</strong> up-botora konbertitu'
         save_settings: 'Gorde ezarpenak'
     permissions:
       react_posts_label: 'Erreakzionatu postetara'
       see_reactions_label: 'Ikusi nork erreakzionatu duen'
   forum:
-    disabled-reaction: 'Ezin duzu erreakzio hau erabili orain,  mesedez freskatu orria'
+    disabled-reaction: 'Ezin duzu erreakzio hau erabili orain, mesedez freskatu orria'
     mod_item: 'Ikusi erreakzioak'
     modal:
       title: Erreakzioak

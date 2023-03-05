@@ -8,8 +8,6 @@ fof-pretty-mail:
       help: 'Foruko CSS kodea HTML mezuan bidaltzea aukeratu. Aktibatzekotan litekeena da email batzuekin arazoak suertatzea.'
       label: 'CSS ezarpenak'
       switch_label: 'Gehitu foruko CSS osoa'
-    nav:
-      desc: 'Customize your HTML email templates.'
     settings:
       confirm: 'Seguru aurrezarritako email txantiloia ezarri nahi duzula'
       default: 'Txantiloi aurrezarria'

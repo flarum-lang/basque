@@ -11,9 +11,6 @@ fof-split:
       new_discussion_label: 'Eztabaida berriaren izenburua ezarri'
       submit_button: Bantu
       title: 'Banatu eztabida'
-    post:
-      was_split_from: '{count} posta banatu da {target}.|{count}bantatu dira {target}-tik.'
-      was_split_to: '{count} post banatu dira {target}-ra.|{count} post banatu dira {target}-ra.'
     split:
       from: 'Banatu hemndik'
       to: 'Banatu hona'
