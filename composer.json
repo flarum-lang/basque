@@ -1,12 +1,12 @@
 {
-	"name": "flarum-lang/xxish",
+	"name": "flarum-lang/basque",
 	"type": "flarum-extension",
-	"description": "Xxish language pack for Flarum.",
-	"homepage": "https://github.com/flarum-lang/xxish",
+	"description": "Basque language pack for Flarum.",
+	"homepage": "https://github.com/flarum-lang/basque",
 	"keywords": [
 		"locale",
 		"flarum",
-		"xx-locale"
+		"eu-locale"
 	],
 	"license": "MIT",
 	"authors": [
@@ -17,8 +17,8 @@
 		}
 	],
 	"support": {
-		"issues": "https://github.com/flarum-lang/xxish/issues",
-		"source": "https://github.com/flarum-lang/xxish"
+		"issues": "https://github.com/flarum-lang/basque/issues",
+		"source": "https://github.com/flarum-lang/basque"
 	},
 	"require": {
 		"flarum/core": "^1.5"
@@ -27,7 +27,7 @@
 	"prefer-stable": true,
 	"extra": {
 		"flarum-extension": {
-			"title": "Xxish",
+			"title": "Basque",
 			"icon": {
 				"image": "icon.svg",
 				"backgroundSize": "cover",
@@ -35,8 +35,8 @@
 			}
 		},
 		"flarum-locale": {
-			"code": "xx",
-			"title": "Xxish"
+			"code": "eu",
+			"title": "Basque"
 		},
 		"extiverse": {
 			"discuss": ""
