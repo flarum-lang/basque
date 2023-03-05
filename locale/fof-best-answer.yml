@@ -14,7 +14,6 @@ fof-best-answer:
         general: General
         reminders: Reminders
         reminders_notice: 'For reminders to function correctly, you must have set up the Flarum scheduler correctly.'
-      remind_tag_ids: 'Kendu gogorapen plangintzatik kategoria hauek (separatu komen bidez)'
       schedule_log_output: 'Atera plangintza logetan'
       schedule_on_one_server: 'Erabili ''onOneServer()'' direktiba lanaren plangintzarako (beharrezkoa da Redis/Memcache)'
       schedule_stop_overnight: 'Ez gogoratu erabiltzaileak email bidez ordu desegokietan (9pm - 8am zerbitzari denboran)'
@@ -42,6 +41,5 @@ fof-best-answer:
       preferences:
         awarded_best_answer: 'Nire post bat norbaitek hoberena bezala markatzen duenean'
         best_answer_in_discussion: 'Parte hartzen ari naizen eztabaida batean erantzun hoberen bat markatzean'
-      select_email_title: 'Konpondu duzu zure galdera?'
     remove_best_answer: 'Kendu erantzun hoberena bezala'
     this_best_answer: 'Aukeratu erantzun hoberena bezala'

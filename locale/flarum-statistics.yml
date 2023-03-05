@@ -5,7 +5,6 @@
 flarum-statistics:
   admin:
     statistics:
-      active_users_text: '{count} aktibo'
       discussions_heading: '=> core.ref.discussions'
       last_12_months_label: 'Azken 12 hilabetetan'
       last_28_days_label: 'Azken 28 egunetan'

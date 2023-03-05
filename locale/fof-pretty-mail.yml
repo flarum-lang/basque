@@ -13,7 +13,6 @@ fof-pretty-mail:
     settings:
       confirm: 'Seguru aurrezarritako email txantiloia ezarri nahi duzula'
       default: 'Txantiloi aurrezarria'
-      help: '"$body" emailaren edikia izango du, "$forumStyle"  <strong>foru osoaren CSSa</strong> gehituko du, "$baseUrl" foruaren URLa, "$settings" interakzioa baimentzen du SettingsRepositoryInterface, eta "$link" ematen du emailaren url. Ikusi txantiloiaren bariableak zer diren ikusteko'
       label: 'Email Txantiloiak'
       newPost: 'Flarum/harripedapen Post berria Email'
       notificationHelp: 'Gomendagarria da "$forumStyle" erabiltzailea BBCODE erabiltzen bada. Email hauek baita "$user" erabiltzaileaentzako bidaliko den emaila eramango du.'

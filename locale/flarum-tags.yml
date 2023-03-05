@@ -35,10 +35,8 @@ flarum-tags:
       title: 'Etiketen ezarpennak'
     tags:
       about_tags_text: 'Etiketak eztabaidak ordenatzeko balio dute. Lehenengo kategoriak foru guztiak bezala dira: bi mailako hierarkian ordena daitezke. Bigarren mailakoak ez dute azpi hierarkiarik, azpi-ordenazio bat egiteko erabili daitezke.'
-      create_tag_button: '=> flarum-tags.ref.create_tag'
       primary_heading: 'Lehenengo mailako kategoriak'
       secondary_heading: 'Bigarren mailako kategoriak'
-      settings_button: Ezarpenak
   forum:
     all_tags:
       meta_description_text: 'Kategoria guztiak'
@@ -69,6 +67,5 @@ flarum-tags:
   lib:
     deleted_tag_text: Borratua
   ref:
-    create_tag: 'Sortu kategoria'
     name: Izena
     tags: Kategoriak
