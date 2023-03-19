@@ -9,13 +9,6 @@
 		"eu-locale"
 	],
 	"license": "MIT",
-	"authors": [
-		{
-			"name": "Your Name",
-			"email": "your@email.net",
-			"homepage": "https://yourhomepage.com/"
-		}
-	],
 	"support": {
 		"issues": "https://github.com/flarum-lang/basque/issues",
 		"source": "https://github.com/flarum-lang/basque"
@@ -28,6 +21,7 @@
 	"extra": {
 		"flarum-extension": {
 			"title": "Basque",
+			"category": "language",
 			"icon": {
 				"image": "icon.svg",
 				"backgroundSize": "cover",
