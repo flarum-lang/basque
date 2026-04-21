@@ -103,7 +103,7 @@ php flarum cache:clear
 
 | Extension | Status |
 | --- | --- |
-| [`v17development/flarum-seo`](https://github.com/v17development/flarum-seo) | [![Translation status](https://weblate.rob006.net/widgets/flarum/eu/v17development-seo/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/v17development-seo/eu/) |
+| [`v17development/flarum-seo`](https://github.com/FriendsOfFlarum/flarum-seo) | [![Translation status](https://weblate.rob006.net/widgets/flarum/eu/v17development-seo/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/v17development-seo/eu/) |
 
 <!-- various-extensions-list-stop -->
 
