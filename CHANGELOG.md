@@ -43,6 +43,6 @@ CHANGELOG
 * [`fof/split`](https://github.com/FriendsOfFlarum/split)
 * [`fof/terms`](https://github.com/FriendsOfFlarum/terms)
 * [`fof/user-bio`](https://github.com/FriendsOfFlarum/user-bio)
-* [`v17development/flarum-seo`](https://github.com/v17development/flarum-seo)
+* [`v17development/flarum-seo`](https://github.com/FriendsOfFlarum/flarum-seo)
 
 
