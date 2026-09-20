@@ -7,9 +7,6 @@ flarum-suspend:
     permissions:
       suspend_users_label: 'Suspenditutako erabiltzaileak'
   forum:
-    notifications:
-      user_suspended_text: '{username} suspenditu dizu {timeReadable}'
-      user_unsuspended_text: '{username} desuspenditu dizu'
     suspend_user:
       indefinitely_label: 'Suspendituta indefinitua'
       limited_time_days_text: ' egun'
