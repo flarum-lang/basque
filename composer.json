@@ -1,24 +1,24 @@
 {
 	"name": "flarum-lang/basque",
+	"description": "Basque Language Pack for Flarum",
 	"type": "flarum-extension",
-	"description": "Basque language pack for Flarum.",
-	"homepage": "https://github.com/flarum-lang/basque",
 	"keywords": [
-		"locale",
-		"flarum",
-		"eu-locale"
+		"flarum-locale"
 	],
+	"homepage": "https://github.com/flarum-lang/basque",
 	"license": "MIT",
 	"support": {
 		"issues": "https://github.com/flarum-lang/basque/issues",
+		"forum": "https://discuss.flarum.org/d/40185",
 		"source": "https://github.com/flarum-lang/basque"
 	},
 	"require": {
 		"flarum/core": "^1.5"
 	},
-	"minimum-stability": "dev",
-	"prefer-stable": true,
 	"extra": {
+		"branch-alias": {
+			"dev-master": "1.x-dev"
+		},
 		"flarum-extension": {
 			"title": "Basque",
 			"category": "language",
@@ -30,13 +30,7 @@
 		},
 		"flarum-locale": {
 			"code": "eu",
-			"title": "Basque"
-		},
-		"extiverse": {
-			"discuss": ""
-		},
-		"branch-alias": {
-			"dev-master": "1.x-dev"
+			"title": "Euskara"
 		}
 	}
 }
